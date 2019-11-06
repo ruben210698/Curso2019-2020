@@ -15,17 +15,17 @@
 <http://www.semanticweb.org/grupo07/Especie/aesculus_hippocastanum> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Aesculus hippocastanum";
   rdfs:label "Aesculus hippocastanum";
-  owl:sameAs <https://www.wikidata.org/wiki/Q21060978> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741076> .
 
 <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hispanica";
   rdfs:label "Platanus hispanica";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161374> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q42418555> .
 
 <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cupressus sempervirens";
   rdfs:label "Cupressus sempervirens";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147513> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741021> .
 
 <http://www.semanticweb.org/grupo07/Especie/gleditsia_triacanthos> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Gleditsia triacanthos";
@@ -35,17 +35,17 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Especie/ulmus_minor> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ulmus minor";
   rdfs:label "Ulmus minor";
-  owl:sameAs <https://www.wikidata.org/wiki/Q28432515> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q7879516> .
 
 <http://www.semanticweb.org/grupo07/Park/Q5411839> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/acacia_dealbata>,
@@ -57,22 +57,22 @@
 <http://www.semanticweb.org/grupo07/Especie/ligustrum_lucidum> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ligustrum lucidum";
   rdfs:label "Ligustrum lucidum";
-  owl:sameAs <https://www.wikidata.org/wiki/Q732933> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741861> .
 
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Especie/acacia_dealbata> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Acacia dealbata";
   rdfs:label "Acacia dealbata";
-  owl:sameAs <https://www.wikidata.org/wiki/Q81666> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q18468972> .
 
 <http://www.semanticweb.org/grupo07/Especie/robinia_pseudoacacia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Robinia pseudoacacia";
   rdfs:label "Robinia pseudoacacia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q157417> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742077> .
 
 <http://www.semanticweb.org/grupo07/Park/Q2054035> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/acer_campestre>,
@@ -85,22 +85,22 @@
 <http://www.semanticweb.org/grupo07/Especie/quercus_robur> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Quercus robur";
   rdfs:label "Quercus robur";
-  owl:sameAs <https://www.wikidata.org/wiki/Q165145> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741189> .
 
 <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Fraxinus angustifolia";
   rdfs:label "Fraxinus angustifolia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q518949> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q5494008> .
 
 <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hispanica";
   rdfs:label "Platanus hispanica";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161374> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q42418555> .
 
 <http://www.semanticweb.org/grupo07/Especie/acer_campestre> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Acer campestre";
   rdfs:label "Acer campestre";
-  owl:sameAs <https://www.wikidata.org/wiki/Q158785> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q4673144> .
 
 <http://www.semanticweb.org/grupo07/Park/parque_de_la_cuna_verde_de_odonnell> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>,
     <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
@@ -119,12 +119,12 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Especie/quercus_ilex> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Quercus ilex";
@@ -134,17 +134,17 @@
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Especie/ulmus_pumila> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ulmus pumila";
   rdfs:label "Ulmus pumila";
-  owl:sameAs <https://www.wikidata.org/wiki/Q1079824> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q7879623> .
 
 <http://www.semanticweb.org/grupo07/Especie/platanus_orientalis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus orientalis";
   rdfs:label "Platanus orientalis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161105> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740869> .
 
 <http://www.semanticweb.org/grupo07/Park/parque_de_la_cuna_verde_de_odonnell> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/platanus_hybrida>,
@@ -154,7 +154,7 @@
 <http://www.semanticweb.org/grupo07/Especie/quercus_robur> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Quercus robur";
   rdfs:label "Quercus robur";
-  owl:sameAs <https://www.wikidata.org/wiki/Q165145> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741189> .
 
 <http://www.semanticweb.org/grupo07/Especie/platanus_hybrida> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hybrida";
@@ -166,12 +166,13 @@
     <http://www.semanticweb.org/grupo07/Especie/pinus_pinea>, <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis>,
     <http://www.semanticweb.org/grupo07/Especie/ulmus_pumila>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "DEHESA DE LA VILLA";
+  <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/quercus_ilex>;
   a <http://www.semanticweb.org/grupo07/ontologies/class#Park> .
 
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/pinus_halepensis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus halepensis";
@@ -181,12 +182,12 @@
 <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Prunus dulcis";
   rdfs:label "Prunus dulcis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q39918> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742913> .
 
 <http://www.semanticweb.org/grupo07/Especie/ulmus_pumila> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ulmus pumila";
   rdfs:label "Ulmus pumila";
-  owl:sameAs <https://www.wikidata.org/wiki/Q1079824> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q7879623> .
 
 <http://www.semanticweb.org/grupo07/Especie/quercus_ilex> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Quercus ilex";
@@ -195,7 +196,7 @@
 
 <http://www.semanticweb.org/grupo07/Park/Q4887686> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica>,
-    <http://www.semanticweb.org/grupo07/Especie/quercus_ilex>, <http://www.semanticweb.org/grupo07/Especie/ulmus_minor>;
+    <http://www.semanticweb.org/grupo07/Especie/ulmus_minor>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "DEHESA DE LA VILLA";
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/gleditsia_triacanthos>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "DEHESA DE LA VILLA";
@@ -204,12 +205,12 @@
 <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hispanica";
   rdfs:label "Platanus hispanica";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161374> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q42418555> .
 
 <http://www.semanticweb.org/grupo07/Especie/ulmus_minor> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ulmus minor";
   rdfs:label "Ulmus minor";
-  owl:sameAs <https://www.wikidata.org/wiki/Q28432515> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q7879516> .
 
 <http://www.semanticweb.org/grupo07/Especie/gleditsia_triacanthos> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Gleditsia triacanthos";
@@ -219,7 +220,7 @@
 <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Fraxinus angustifolia";
   rdfs:label "Fraxinus angustifolia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q518949> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q5494008> .
 
 <http://www.semanticweb.org/grupo07/Park/Q4887686> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
     <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia>;
@@ -234,17 +235,17 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Especie/populus_alba> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Populus alba";
   rdfs:label "Populus alba";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146269> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741331> .
 
 <http://www.semanticweb.org/grupo07/Park/z_v_distrito_c_las_tablas> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/_liquidambar_styraciflua>,
@@ -257,20 +258,20 @@
 <http://www.semanticweb.org/grupo07/Especie/_liquidambar_styraciflua> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> " Liquidambar styraciflua";
   rdfs:label " Liquidambar styraciflua";
-  owl:sameAs <https://www.wikidata.org/wiki/Q469652> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742446> .
 
 <http://www.semanticweb.org/grupo07/Especie/olea_europaea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Olea europaea";
   rdfs:label "Olea europaea";
   a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   rdfs:label "Olea europaea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q37083>;
+  owl:sameAs <https://www.wikidata.org/wiki/Q35417711>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Olea europaea" .
 
 <http://www.semanticweb.org/grupo07/Especie/arbutus_unedo> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Arbutus unedo";
   rdfs:label "Arbutus unedo";
-  owl:sameAs <https://www.wikidata.org/wiki/Q329046> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741474> .
 
 <http://www.semanticweb.org/grupo07/Park/z_v_distrito_c_las_tablas> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
     <http://www.semanticweb.org/grupo07/Especie/arbutus_unedo>;
@@ -279,13 +280,13 @@
 <http://www.semanticweb.org/grupo07/Park/Q1583169> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/olea_europaea>,
     <http://www.semanticweb.org/grupo07/Especie/pinus_pinea>;
-  <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "PARQUE JUAN CARLOS I";
-  a <http://www.semanticweb.org/grupo07/ontologies/class#Park> .
+  a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
+  <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "PARQUE JUAN CARLOS I" .
 
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/catalpa_bignonioides> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Catalpa bignonioides";
@@ -301,12 +302,12 @@
 <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cupressus sempervirens";
   rdfs:label "Cupressus sempervirens";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147513> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741021> .
 
 <http://www.semanticweb.org/grupo07/Especie/fraxinus_excelsior> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Fraxinus excelsior";
   rdfs:label "Fraxinus excelsior";
-  owl:sameAs <https://www.wikidata.org/wiki/Q156907> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55743514> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1583169> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/fraxinus_excelsior>;
@@ -323,7 +324,7 @@
 <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Fraxinus angustifolia";
   rdfs:label "Fraxinus angustifolia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q518949> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q5494008> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1583169> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia>;
@@ -334,7 +335,7 @@
 <http://www.semanticweb.org/grupo07/Especie/populus_alba> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Populus alba";
   rdfs:label "Populus alba";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146269> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741331> .
 
 <http://www.semanticweb.org/grupo07/Park/parque_juan_pablo_ii> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/aesculus_hippocastanum>;
@@ -344,12 +345,12 @@
 <http://www.semanticweb.org/grupo07/Especie/aesculus_hippocastanum> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Aesculus hippocastanum";
   rdfs:label "Aesculus hippocastanum";
-  owl:sameAs <https://www.wikidata.org/wiki/Q21060978> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741076> .
 
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Park/parque_juan_pablo_ii> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/pinus_pinea>;
@@ -361,7 +362,7 @@
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Especie/gleditsia_triacanthos> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Gleditsia triacanthos";
@@ -383,10 +384,11 @@
 <http://www.semanticweb.org/grupo07/Especie/liquidambar_styraciflua> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Liquidambar styraciflua";
   rdfs:label "Liquidambar styraciflua";
-  owl:sameAs <https://www.wikidata.org/wiki/Q469652> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742446> .
 
-<http://www.semanticweb.org/grupo07/Park/parque_juan_pablo_ii> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
-  <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/liquidambar_styraciflua>;
+<http://www.semanticweb.org/grupo07/Park/parque_juan_pablo_ii> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
+    <http://www.semanticweb.org/grupo07/Especie/liquidambar_styraciflua>;
+  a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "PARQUE JUAN PABLO II";
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/morus_alba>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "PARQUE JUAN PABLO II";
@@ -395,12 +397,12 @@
 <http://www.semanticweb.org/grupo07/Especie/morus_alba> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Morus alba";
   rdfs:label "Morus alba";
-  owl:sameAs <https://www.wikidata.org/wiki/Q157307> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740868> .
 
 <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Prunus dulcis";
   rdfs:label "Prunus dulcis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q39918> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742913> .
 
 <http://www.semanticweb.org/grupo07/Park/parque_juan_pablo_ii> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
     <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis>;
@@ -423,7 +425,7 @@
 <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Prunus dulcis";
   rdfs:label "Prunus dulcis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q39918> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742913> .
 
 <http://www.semanticweb.org/grupo07/Especie/pinus_halepensis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus halepensis";
@@ -445,7 +447,7 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062479> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/pinus_pinea>;
@@ -457,12 +459,12 @@
 <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hispanica";
   rdfs:label "Platanus hispanica";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161374> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q42418555> .
 
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062479> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara>;
@@ -479,7 +481,7 @@
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062479> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
     <http://www.semanticweb.org/grupo07/Especie/celtis_australis>;
@@ -493,12 +495,12 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hispanica";
   rdfs:label "Platanus hispanica";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161374> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q42418555> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1140249> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica>;
@@ -515,7 +517,7 @@
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1140249> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara>;
@@ -527,12 +529,12 @@
 <http://www.semanticweb.org/grupo07/Especie/populus_nigra> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Populus nigra";
   rdfs:label "Populus nigra";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147064> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740887> .
 
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1140249> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
     <http://www.semanticweb.org/grupo07/Especie/celtis_australis>;
@@ -546,12 +548,12 @@
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Especie/acer_negundo> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Acer negundo";
   rdfs:label "Acer negundo";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161166> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741905> .
 
 <http://www.semanticweb.org/grupo07/Park/Q16626568> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/acer_negundo>;
@@ -563,12 +565,12 @@
 <http://www.semanticweb.org/grupo07/Especie/thuja_occidentalis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Thuja occidentalis";
   rdfs:label "Thuja occidentalis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147468> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741886> .
 
 <http://www.semanticweb.org/grupo07/Especie/betula_utilis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Betula utilis";
   rdfs:label "Betula utilis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q930814> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q62471258> .
 
 <http://www.semanticweb.org/grupo07/Park/Q16626568> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/betula_utilis>;
@@ -580,12 +582,12 @@
 <http://www.semanticweb.org/grupo07/Especie/crataegus_monogyna> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Crataegus monogyna";
   rdfs:label "Crataegus monogyna";
-  owl:sameAs <https://www.wikidata.org/wiki/Q132557> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741600> .
 
 <http://www.semanticweb.org/grupo07/Especie/quercus_robur> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Quercus robur";
   rdfs:label "Quercus robur";
-  owl:sameAs <https://www.wikidata.org/wiki/Q165145> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741189> .
 
 <http://www.semanticweb.org/grupo07/Park/Q16626568> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/quercus_robur>;
@@ -596,7 +598,7 @@
 <http://www.semanticweb.org/grupo07/Especie/sambucus_nigra> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Sambucus nigra";
   rdfs:label "Sambucus nigra";
-  owl:sameAs <https://www.wikidata.org/wiki/Q22701> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742816> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_la_plaza_de_oriente_lepanto_y_cabo_noval>
   a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
@@ -607,12 +609,12 @@
 <http://www.semanticweb.org/grupo07/Especie/platanus_hispanica> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Platanus hispanica";
   rdfs:label "Platanus hispanica";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161374> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q42418555> .
 
 <http://www.semanticweb.org/grupo07/Especie/ligustrum_lucidum> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ligustrum lucidum";
   rdfs:label "Ligustrum lucidum";
-  owl:sameAs <https://www.wikidata.org/wiki/Q732933> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741861> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_la_plaza_de_oriente_lepanto_y_cabo_noval>
   a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
@@ -625,7 +627,7 @@
 <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cupressus sempervirens";
   rdfs:label "Cupressus sempervirens";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147513> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741021> .
 
 <http://www.semanticweb.org/grupo07/Especie/cupressus_macrocarpa> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cupressus macrocarpa";
@@ -643,12 +645,12 @@
 <http://www.semanticweb.org/grupo07/Especie/taxus_baccata> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Taxus baccata";
   rdfs:label "Taxus baccata";
-  owl:sameAs <https://www.wikidata.org/wiki/Q179729> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740900> .
 
 <http://www.semanticweb.org/grupo07/Especie/magnolia_grandiflora> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Magnolia grandiflora";
   rdfs:label "Magnolia grandiflora";
-  owl:sameAs <https://www.wikidata.org/wiki/Q20742546> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741444> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_la_plaza_de_oriente_lepanto_y_cabo_noval>
   a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
@@ -661,12 +663,12 @@
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Especie/crataegus_monogyna> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Crataegus monogyna";
   rdfs:label "Crataegus monogyna";
-  owl:sameAs <https://www.wikidata.org/wiki/Q132557> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741600> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_la_plaza_de_oriente_lepanto_y_cabo_noval>
   a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
@@ -688,12 +690,12 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/olea_europaea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Olea europaea";
   rdfs:label "Olea europaea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q37083> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q35417711> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062319> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/olea_europaea>;
@@ -710,7 +712,7 @@
 <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cupressus sempervirens";
   rdfs:label "Cupressus sempervirens";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147513> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741021> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062319> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens>;
@@ -722,12 +724,12 @@
 <http://www.semanticweb.org/grupo07/Especie/tilia_platyphyllos> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Tilia platyphyllos";
   rdfs:label "Tilia platyphyllos";
-  owl:sameAs <https://www.wikidata.org/wiki/Q156831> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q33040885> .
 
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062319> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/celtis_australis>;
@@ -739,7 +741,7 @@
 <http://www.semanticweb.org/grupo07/Especie/populus_nigra> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Populus nigra";
   rdfs:label "Populus nigra";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147064> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740887> .
 
 <http://www.semanticweb.org/grupo07/Especie/gleditsia_triacanthos> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Gleditsia triacanthos";
@@ -755,7 +757,7 @@
 <http://www.semanticweb.org/grupo07/Especie/robinia_pseudoacacia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Robinia pseudoacacia";
   rdfs:label "Robinia pseudoacacia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q157417> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742077> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_sabatini> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/pinus_pinea>;
@@ -765,12 +767,12 @@
 <http://www.semanticweb.org/grupo07/Especie/pinus_pinea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
 <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cupressus sempervirens";
   rdfs:label "Cupressus sempervirens";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147513> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741021> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_sabatini> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/cupressus_sempervirens>;
@@ -782,12 +784,12 @@
 <http://www.semanticweb.org/grupo07/Especie/acer_negundo> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Acer negundo";
   rdfs:label "Acer negundo";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161166> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741905> .
 
 <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Cedrus deodara";
   rdfs:label "Cedrus deodara";
-  owl:sameAs <https://www.wikidata.org/wiki/Q146935> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741072> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_sabatini> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/cedrus_deodara>;
@@ -799,12 +801,12 @@
 <http://www.semanticweb.org/grupo07/Especie/magnolia_grandiflora> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Magnolia grandiflora";
   rdfs:label "Magnolia grandiflora";
-  owl:sameAs <https://www.wikidata.org/wiki/Q20742546> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741444> .
 
 <http://www.semanticweb.org/grupo07/Especie/thuja_occidentalis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Thuja occidentalis";
   rdfs:label "Thuja occidentalis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147468> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741886> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_sabatini> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/thuja_occidentalis>;
@@ -816,12 +818,12 @@
 <http://www.semanticweb.org/grupo07/Especie/abies_nordmanniana> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Abies nordmanniana";
   rdfs:label "Abies nordmanniana";
-  owl:sameAs <https://www.wikidata.org/wiki/Q148920> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741507> .
 
 <http://www.semanticweb.org/grupo07/Especie/acer_pseudoplatanus> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Acer pseudoplatanus";
   rdfs:label "Acer pseudoplatanus";
-  owl:sameAs <https://www.wikidata.org/wiki/Q156944> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740885> .
 
 <http://www.semanticweb.org/grupo07/Park/jardines_de_sabatini> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/acer_pseudoplatanus>;
@@ -832,7 +834,7 @@
 <http://www.semanticweb.org/grupo07/Especie/ulmus_minor> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Ulmus minor";
   rdfs:label "Ulmus minor";
-  owl:sameAs <https://www.wikidata.org/wiki/Q28432515> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q7879516> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062702> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/celtis_australis>;
@@ -842,12 +844,12 @@
 <http://www.semanticweb.org/grupo07/Especie/celtis_australis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Celtis australis";
   rdfs:label "Celtis australis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q255375> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741413> .
 
 <http://www.semanticweb.org/grupo07/Especie/populus_nigra> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Populus nigra";
   rdfs:label "Populus nigra";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147064> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740887> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062702> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/populus_nigra>;
@@ -859,12 +861,12 @@
 <http://www.semanticweb.org/grupo07/Especie/morus_alba> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Morus alba";
   rdfs:label "Morus alba";
-  owl:sameAs <https://www.wikidata.org/wiki/Q157307> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740868> .
 
 <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Prunus dulcis";
   rdfs:label "Prunus dulcis";
-  owl:sameAs <https://www.wikidata.org/wiki/Q39918> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55742913> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062702> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/prunus_dulcis>;
@@ -876,12 +878,12 @@
 <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Fraxinus angustifolia";
   rdfs:label "Fraxinus angustifolia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q518949> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q5494008> .
 
 <http://www.semanticweb.org/grupo07/Especie/olea_europaea> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Olea europaea";
   rdfs:label "Olea europaea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q37083> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q35417711> .
 
 <http://www.semanticweb.org/grupo07/Park/Q6062702> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/olea_europaea>;
@@ -894,9 +896,10 @@
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
   rdfs:label "Pinus pinea";
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Pinus pinea";
-  owl:sameAs <https://www.wikidata.org/wiki/Q106094>, <https://www.wikidata.org/wiki/Q55740907> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740907> .
 
-<http://www.semanticweb.org/grupo07/Park/Q1046524> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
+<http://www.semanticweb.org/grupo07/Park/Q1046524> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>,
+    <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/pinus_pinea>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasParkName> "CASA DE CAMPO" .
 
@@ -912,7 +915,7 @@
 <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Fraxinus angustifolia";
   rdfs:label "Fraxinus angustifolia";
-  owl:sameAs <https://www.wikidata.org/wiki/Q518949> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q5494008> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1046524> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/fraxinus_angustifolia>;
@@ -930,7 +933,7 @@
 <http://www.semanticweb.org/grupo07/Especie/populus_nigra> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Populus nigra";
   rdfs:label "Populus nigra";
-  owl:sameAs <https://www.wikidata.org/wiki/Q147064> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55740887> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1046524> a <http://www.semanticweb.org/grupo07/ontologies/class#Park>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie> <http://www.semanticweb.org/grupo07/Especie/populus_nigra>;
@@ -939,7 +942,7 @@
 <http://www.semanticweb.org/grupo07/Especie/acer_negundo> a <http://www.semanticweb.org/grupo07/ontologies/class#Especie>;
   <http://www.semanticweb.org/grupo07/ontologies/property#hasPlantName> "Acer negundo";
   rdfs:label "Acer negundo";
-  owl:sameAs <https://www.wikidata.org/wiki/Q161166> .
+  owl:sameAs <https://www.wikidata.org/wiki/Q55741905> .
 
 <http://www.semanticweb.org/grupo07/Park/Q1046524> <http://www.semanticweb.org/grupo07/ontologies/property#hasEspecie>
     <http://www.semanticweb.org/grupo07/Especie/acer_negundo>;
